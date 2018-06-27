@@ -1,0 +1,17 @@
+/* @font-face {
+  font-family: 'Liberation Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/liberation_sans/LiberationSans-Bold.ttf')
+} */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Liberation Sans';
+}
+
+.displayCustomer {
+  margin: 20px;
+}
+

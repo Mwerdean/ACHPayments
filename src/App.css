@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+
+.submitButton {
+  padding: 10px;
+  margin: 10px;
+}
+
+.values {
+  width: 50%;
+  margin: 10px;
+}
+
+.values > input {
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.value-input {
+  display: flex;
+}
+
+.verifyContainer {
+  padding: 30px;
+  margin: 10px;
+
+}
+
+.shadow {
+  box-shadow: 0 6px 6px -6px ;
+  background-color: white;
+}
+
+.valueButton {
+  margin-top: 25px;
+}
+
+.align-right {
+  width: 90%;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.top-margin {
+  margin-top: 30px;
+}
+
+.pagination {
+  width: 100%;
+  display: flex; 
+  flex-direction: row-reverse;
+}
+
+.nav {
+  background-color: #ffe411;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.nav > div {
+  margin: 15px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+
+}
+
+.displayCustomer {
+  margin: 20px;
+  padding: 15px;
+  background-color: white;
+  box-shadow: 1px 1px 5px 0px rgba(209,202,209,1);
+  border-radius: 4px;
+}
+
+.displayCustomer > div {
+  margin-bottom: 5px;
+}
+
+.page {
+  padding: 20px;
+}
